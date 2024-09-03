@@ -19,11 +19,11 @@ Any additional information goes here
 ## Team Members
 
 - [@Aditya Kumar Behera](https://www.github.com/hey-guddu)
-- [@Priyadarshini](https://www.github.com/member-2)
+- [@Priyadarshini](https://github.com/Priya-8093)
 - [@Prata Smarana Jena](https://www.github.com/prata2003)
-- [@Abhijit Kumar Mishra](https://www.github.com/member-4)
-- [@Anshuman Pati](https://www.github.com/member-5)
-- [@Arshu Gupta](https://www.github.com/member-6)
+- [@Abhijit Kumar Mishra](https://github.com/Abhijit-Kumar-Mishra)
+- [@Anshuman Pati](https://github.com/ansuman005)
+- [@Arshu Gupta](https://github.com/arsugupta)
 
 ## Color Reference
 
