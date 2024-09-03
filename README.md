@@ -67,7 +67,7 @@ Demo of our project.
 
 **Client:** HTML & CSS, Bootstrap, JavaScript
 
-**Server:** PHP, MySQL
+**Server:** PHP, MySQL, APIs
 
 
 ## Documentation
