@@ -48,7 +48,7 @@ Demo of our project.
 # Hi, We're CodeCrew! 👋
 
 We're studying B.Tech CSE, at DRIEMS University,
-We joined DRIEMS University as freshmen in 2022, and now we are preparing for the Smart India Hackathon Project.
+We joined DRIEMS University as freshmen in 2022, and we are now preparing for the Smart India Hackathon Project.
 ## 🛠 Skills
 We have Skills in Frontend HTML, CSS, Bootstrap, JavaScript, PHP, Python, Oracle Database, MySQL, and API Integration.
 
@@ -62,7 +62,9 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[ResearchGate Paper 1](https://www.researchgate.net/publication/358764246_AN_INTERACTIVE_DRUG_SUPPLY_CHAIN_TRACKING_SYSTEM_USING_BLOCKCHAIN_20)
+
+[ResearchGate Paper 2](https://www.researchgate.net/publication/354455224_Blockchain-based_smart_tracking_and_tracing_platform_for_drug_supply_chain)
 
 
 ## Roadmap
