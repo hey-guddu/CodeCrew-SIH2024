@@ -16,7 +16,7 @@ Any additional information goes here
 ## Team Members
 
 - [@Aditya Kumar Behera](https://www.github.com/hey-guddu)
-- [@Priyadarshini](https://github.com/Priya-8093)
+- [@Priyadarshini Singh](https://github.com/Priya-8093)
 - [@Prata Smarana Jena](https://www.github.com/prata2003)
 - [@Abhijit Kumar Mishra](https://github.com/Abhijit-Kumar-Mishra)
 - [@Anshuman Pati](https://github.com/ansuman005)
@@ -27,7 +27,7 @@ Any additional information goes here
 
 Contributions are always welcome!
 
-See [`sih.gov.in`](sih.gov.in) for ways to get started.
+See [`Smart India Hackathon`](https://www.sih.gov.in/) for ways to get started.
 
 
 ## Screenshots
@@ -66,9 +66,9 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 
 Here are some related projects
 
-[ResearchGate Paper 1](https://www.researchgate.net/publication/358764246_AN_INTERACTIVE_DRUG_SUPPLY_CHAIN_TRACKING_SYSTEM_USING_BLOCKCHAIN_20)
+[`ResearchGate Paper 1`](https://www.researchgate.net/publication/358764246_AN_INTERACTIVE_DRUG_SUPPLY_CHAIN_TRACKING_SYSTEM_USING_BLOCKCHAIN_20)
 
-[ResearchGate Paper 2](https://www.researchgate.net/publication/354455224_Blockchain-based_smart_tracking_and_tracing_platform_for_drug_supply_chain)
+[`ResearchGate Paper 2`](https://www.researchgate.net/publication/354455224_Blockchain-based_smart_tracking_and_tracing_platform_for_drug_supply_chain)
 
 
 ## Roadmap
