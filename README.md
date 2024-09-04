@@ -44,13 +44,6 @@ See `sih.gov.in` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-## Logo
-
-Here is the sample logo of our project
-
-![Logo](https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/5c2a2001d74045636013)
-
-
 ## Screenshots
 
 Landing page screenshot of our project.
