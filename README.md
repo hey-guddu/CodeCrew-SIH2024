@@ -1,7 +1,11 @@
 
 # Drug Inventory and Supply Chain Tracking System
 
-A brief description of what this project does and who it's for
+`Description:` With the aim to provide "Right Quantity of "Right Product" on "Right Place" on "Right Time" in "Right Condition" at "Right Cost" for "Right People" and also to streamline the distribution of drugs to institutions and ensure availability of drugs at all times, a new, innovative system named Drug Inventory and supply chain Tracking system is required: To improve efficiency and effectiveness of procurement and distribution systems through robust quality controls To provide dashboard based online monitoring of all activities at each level Tracking of vendor activities like preparation of Supply Order, Shipment etc. Monitoring of Drug consumption pattern at the Hospitals/Medical Institutions Level
+
+This problem statement is given by the `Government of NCT of Delhi`, and the department is `IT Department, GNCTD`
+
+Problem Statement category is `Software` and theme is `MedTech / BioTech / HealthTech`
 
 
 ## Appendix
@@ -23,7 +27,7 @@ Any additional information goes here
 
 Contributions are always welcome!
 
-See `sih.gov.in` for ways to get started.
+See [`sih.gov.in`](sih.gov.in) for ways to get started.
 
 
 ## Screenshots
