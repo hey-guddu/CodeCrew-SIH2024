@@ -9,13 +9,6 @@ A brief description of what this project does and who it's for
 Any additional information goes here
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## Team Members
 
 - [@Aditya Kumar Behera](https://www.github.com/hey-guddu)
@@ -25,23 +18,12 @@ Any additional information goes here
 - [@Anshuman Pati](https://github.com/ansuman005)
 - [@Arshu Gupta](https://github.com/arsugupta)
 
-## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
 
 ## Contributing
 
 Contributions are always welcome!
 
 See `sih.gov.in` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
 ## Screenshots
@@ -60,20 +42,15 @@ Demo of our project.
 
 **Client:** HTML & CSS, Bootstrap, JavaScript
 
-**Server:** PHP, MySQL, APIs
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
+**Server:** PHP, MySQL, Twilio API, RapidAPI, OpenStreetMaps API
 
 
 # Hi, We're CodeCrew! 👋
 
-We're studying B.Tech CSE, in DRIEMS University,
-We joined DRIEMS University in 2022 as freshers, now we are preparing for the final year project and internship.
+We're studying B.Tech CSE, at DRIEMS University,
+We joined DRIEMS University as freshmen in 2022, and now we are preparing for the Smart India Hackathon Project.
 ## 🛠 Skills
-We have our Skills in Frontend HTML, CSS, Bootstrap, JavaScript, PHP, Python, Oracle Database, MySQL.
+We have Skills in Frontend HTML, CSS, Bootstrap, JavaScript, PHP, Python, Oracle Database, MySQL, and API Integration.
 
 
 ## Optimizations
