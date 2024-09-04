@@ -48,7 +48,7 @@ Please adhere to this project's `code of conduct`.
 
 Landing page screenshot of our project.
 
-![App Screenshot](https://web-static.wrike.com/cdn-cgi/image/width=900,format=auto/blog/content/uploads/2024/04/blog-screenshot_product-screenshot_new-dashboard_projects_aqua.png?av=bcafa305f4c31e196fc3a77ec9645a61)
+![App Screenshot](https://raw.githubusercontent.com/hey-guddu/CodeCrew-SIH2024/main/Images/Landing%20Page%20Screenshot.png)
 
 
 ## Demo
