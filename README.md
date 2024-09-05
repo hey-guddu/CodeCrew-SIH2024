@@ -34,14 +34,21 @@ See [`Smart India Hackathon`](https://www.sih.gov.in/) for ways to get started.
 
 Landing page screenshot of our project.
 
-![App Screenshot](https://raw.githubusercontent.com/hey-guddu/CodeCrew-SIH2024/main/Images/Landing%20Page%20Screenshot.png)
+<img src="https://raw.githubusercontent.com/hey-guddu/CodeCrew-SIH2024/main/Images/Landing%20Page%20Screenshot.png" width="715">
 
 
 ## Demo
 
 Demo of our project.
 
-![Project Dashboard Page](https://cdn.dribbble.com/users/365424/screenshots/3903606/movfinal.gif)
+![Healthcare Dashboard Page](https://raw.githubusercontent.com/hey-guddu/CodeCrew-SIH2024/main/Images/Healthcare.gif)
+
+![Manufacturer Dashboard Page](https://raw.githubusercontent.com/hey-guddu/CodeCrew-SIH2024/main/Images/Manufacturer.gif)
+
+![Pharmacy Dashboard Page](https://raw.githubusercontent.com/hey-guddu/CodeCrew-SIH2024/main/Images/Pharmacy.gif)
+
+![Logistics Dashboard Page](https://github.com/hey-guddu/CodeCrew-SIH2024/blob/main/Images/Logistics.gif)
+
 ## Tech Stack
 
 **Client:** HTML & CSS, Bootstrap, JavaScript
