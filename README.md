@@ -10,7 +10,34 @@ Problem Statement category is `Software` and theme is `MedTech / BioTech / Healt
 
 ## Appendix
 
-Any additional information goes here
+**A.1. Glossary of Terms:**
+- **Drug Inventory:** The stock of pharmaceutical products held by a medical institution or distribution center.
+- **Supply Chain:** The network of vendors, suppliers, transporters, and institutions involved in the production, distribution, and delivery of drugs.
+- **Dashboard:** A user interface that provides an overview of key metrics and data points in real-time.
+- **Vendor:** A supplier of pharmaceutical products.
+- **Order Tracking:** The process of monitoring and updating the status of drug orders from placement to delivery.
+
+**A.2. Acronyms:**
+- **API:** Application Programming Interface
+- **GPS:** Global Positioning System
+- **UI/UX:** User Interface/User Experience
+- **PHP:** Hypertext Preprocessor (a server-side scripting language)
+- **SQL:** Structured Query Language (used in managing databases)
+
+**A.3. References:**
+- Industry guidelines on drug distribution and inventory management.
+- Best practices in supply chain management and logistics.
+- Documentation on the chosen tech stack (HTML, CSS, JavaScript, PHP, MySQL).
+
+**A.4. Assumptions:**
+- The system will be used by authorized personnel only, with role-based access control.
+- Real-time data will be critical for monitoring inventory levels and shipment tracking.
+- The tech stack is sufficient for building a functional prototype within the given timeline.
+
+**A.5. Future Enhancements:**
+- Integration with external APIs for real-time shipment tracking.
+- Advanced analytics for predictive inventory management.
+- Mobile application development for on-the-go access and monitoring.
 
 
 ## Team Members
