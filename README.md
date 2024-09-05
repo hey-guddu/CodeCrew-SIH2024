@@ -93,7 +93,13 @@ We have Skills in Frontend HTML, CSS, Bootstrap, JavaScript, PHP, Python, Oracle
 
 ## Optimizations
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+### Optimizations Made:
+
+- **Code Refactoring:** Simplified and modularized the code to enhance readability and maintainability. Components and functions were broken down into smaller, reusable parts.
+- **Performance and Quality Improvements:** Optimized database queries by indexing frequently searched fields and using pagination for large data sets to reduce load times.
+- **Accessibility Enhancements:** Ensured that all components are screen reader-friendly, implemented keyboard navigation, and added alt text to images and ARIA labels to improve accessibility for users with disabilities.
+- **CSS Optimization:** Minified CSS and used only necessary styles to reduce file size and improve page load speed.
+- **Asynchronous Operations:** Implemented asynchronous data fetching to avoid blocking the main thread, improving user experience during data-heavy operations.
 
 
 ## Related
@@ -105,14 +111,13 @@ Here are some related projects
 [`ResearchGate Paper 2`](https://www.researchgate.net/publication/354455224_Blockchain-based_smart_tracking_and_tracing_platform_for_drug_supply_chain)
 
 
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+#### Lessons Learned Till Now:
+
+- **Effective Planning:** Early definition of scope and requirements is crucial to avoid scope creep and ensure the project stays on track.
+- **Modular Development:** Breaking down the project into smaller, manageable components made the development process more organized and scalable.
+- **Importance of Testing:** Regular testing throughout development helped catch issues early, improving the overall quality and reliability of the system.
+- **User-Centric Design:** Focusing on UI/UX from the beginning ensured that the system was intuitive and accessible for all users.
+- **Team Collaboration:** Clear communication and division of tasks among team members were key to maintaining productivity and meeting deadlines.
 
